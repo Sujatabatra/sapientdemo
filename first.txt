@@ -1,1 +1,2 @@
 Hello, we are demonstrating Git.
+Kitten is eating chicken in the kitchen.
